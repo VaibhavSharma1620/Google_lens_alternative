@@ -43,3 +43,4 @@
 - references:
   - https://arxiv.org/pdf/1503.03832
   - https://arxiv.org/pdf/1704.04861
+- video explaination: https://drive.google.com/file/d/1jslekbRn3knT0S-WXI_4D9XnH6vW1q6t/view?usp=sharing
