@@ -39,4 +39,7 @@
 - Adjusting param like PCA dimension
 - Can try Contrastive loss (CLIP model embeddings also)
 - Add dropout or other regularization techniques for prone to overfit model like VIT
-- Training on full dataset 
+- Training on full dataset
+- references:
+  - https://arxiv.org/pdf/1503.03832
+  - https://arxiv.org/pdf/1704.04861
